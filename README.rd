@@ -1,1 +1,2 @@
-color
+automatic hex color generator
+
